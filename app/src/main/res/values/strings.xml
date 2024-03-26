@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">build_test</string>
+    <string name="title_empty">empty_string</string>
+    <string name="create_todo_title">Create Todo</string>
+</resources>
